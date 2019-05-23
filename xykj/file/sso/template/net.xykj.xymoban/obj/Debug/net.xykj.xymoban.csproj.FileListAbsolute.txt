@@ -1,0 +1,14 @@
+D:\xykj\net.xykj.xymoban\bin\net.xykj.xymoban.dll.config
+D:\xykj\net.xykj.xymoban\bin\net.xykj.xymoban.dll
+D:\xykj\net.xykj.xymoban\bin\net.xykj.xymoban.pdb
+D:\xykj\net.xykj.xymoban\obj\Debug\net.xykj.xymoban.csproj.CoreCompileInputs.cache
+D:\xykj\net.xykj.xymoban\obj\Debug\net.xykj.xymoban.dll
+D:\xykj\net.xykj.xymoban\obj\Debug\net.xykj.xymoban.pdb
+D:\xykj\net.xykj.xymoban\obj\Debug\net.xykj.xymoban.csprojAssemblyReference.cache
+D:\xykj\net.xykj.xymoban\obj\Debug\net.xykj.xymoban.csproj.CopyComplete
+D:\xykj\net.xykj.xymoban\bin\net.xykj.moban.dll
+D:\xykj\net.xykj.xymoban\bin\net.xykj.moban.pdb
+D:\xykj\net.xykj.xymoban\bin\net.xykj.model.dll
+D:\xykj\net.xykj.xymoban\bin\net.xykj.common.dll
+D:\xykj\net.xykj.xymoban\bin\net.xykj.mongo.dll
+D:\xykj\net.xykj.xymoban\bin\net.xykj.model.pdb

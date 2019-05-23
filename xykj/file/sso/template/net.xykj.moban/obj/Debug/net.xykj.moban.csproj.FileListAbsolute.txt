@@ -1,0 +1,11 @@
+D:\xykj\net.xykj.moban\bin\Debug\net.xykj.moban.dll
+D:\xykj\net.xykj.moban\bin\Debug\net.xykj.moban.pdb
+D:\xykj\net.xykj.moban\obj\Debug\net.xykj.moban.csproj.CoreCompileInputs.cache
+D:\xykj\net.xykj.moban\obj\Debug\net.xykj.moban.dll
+D:\xykj\net.xykj.moban\obj\Debug\net.xykj.moban.pdb
+D:\xykj\net.xykj.moban\bin\Debug\net.xykj.common.dll
+D:\xykj\net.xykj.moban\bin\Debug\net.xykj.model.dll
+D:\xykj\net.xykj.moban\bin\Debug\net.xykj.mongo.dll
+D:\xykj\net.xykj.moban\bin\Debug\net.xykj.model.pdb
+D:\xykj\net.xykj.moban\obj\Debug\net.xykj.moban.csprojAssemblyReference.cache
+D:\xykj\net.xykj.moban\obj\Debug\net.xykj.moban.csproj.CopyComplete
