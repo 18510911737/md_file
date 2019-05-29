@@ -1,0 +1,166 @@
+﻿---------2019/5/29 10:32:19---------2019/5/29 2:32:19----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.<.ctor>b__1_0(IBaseService f) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 30
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 net.xykj.cf.service.Services.XinYouService..ctor() 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 21
+   在 net.xykj.cf.service.Program.Main() 位置 D:\xykj\net.xykj.cf.service\Program.cs:行号 14
+配置文件已关闭:AgentService
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:32:19---------2019/5/29 2:32:19----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.<.ctor>b__1_0(IBaseService f) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 30
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 net.xykj.cf.service.Services.XinYouService..ctor() 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 21
+   在 net.xykj.cf.service.Program.Main() 位置 D:\xykj\net.xykj.cf.service\Program.cs:行号 14
+配置文件已关闭:AgentOPService
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:32:19---------2019/5/29 2:32:19----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.engine.Services.PayService.LoadSource(Int32 maxLevel) 位置 D:\xykj\net.xykj.cf.service.engine\Services\PayService.cs:行号 127
+   在 net.xykj.cf.service.engine.Services.PayService.Push(Int32 maxLevel) 位置 D:\xykj\net.xykj.cf.service.engine\Services\PayService.cs:行号 49
+   在 net.xykj.cf.service.engine.Services.PayService.Init() 位置 D:\xykj\net.xykj.cf.service.engine\Services\PayService.cs:行号 40
+   在 net.xykj.cf.service.Services.XinYouService.<.ctor>b__1_0(IBaseService f) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 25
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 net.xykj.cf.service.Services.XinYouService..ctor() 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 21
+   在 net.xykj.cf.service.Program.Main() 位置 D:\xykj\net.xykj.cf.service\Program.cs:行号 14
+XYPayService加载数据源
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:32:19---------2019/5/29 2:32:19----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.<.ctor>b__1_0(IBaseService f) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 26
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 net.xykj.cf.service.Services.XinYouService..ctor() 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 21
+   在 net.xykj.cf.service.Program.Main() 位置 D:\xykj\net.xykj.cf.service\Program.cs:行号 14
+执行XYPayService初始化
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:32:29---------2019/5/29 2:32:29----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.OnStart(String[] args) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 52
+   在 System.ServiceProcess.ServiceBase.ServiceQueuedMainCallback(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+服务启动v1
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:32:29---------2019/5/29 2:32:29----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.<OnStart>b__2_0(IBaseService t) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 75
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 net.xykj.cf.service.Services.XinYouService.OnStart(String[] args) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 54
+   在 System.ServiceProcess.ServiceBase.ServiceQueuedMainCallback(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+配置文件已关闭:AgentService
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:32:29---------2019/5/29 2:32:29----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.<OnStart>b__2_0(IBaseService t) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 75
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 net.xykj.cf.service.Services.XinYouService.OnStart(String[] args) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 54
+   在 System.ServiceProcess.ServiceBase.ServiceQueuedMainCallback(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+配置文件已关闭:AgentOPService
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:32:29---------2019/5/29 2:32:29----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.<OnStart>b__2_0(IBaseService t) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 58
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 net.xykj.cf.service.Services.XinYouService.OnStart(String[] args) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 54
+   在 System.ServiceProcess.ServiceBase.ServiceQueuedMainCallback(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+XYPayService任务加入定时器
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:32:29---------2019/5/29 2:32:29----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.<OnStart>b__2_0(IBaseService t) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 61
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 net.xykj.cf.service.Services.XinYouService.OnStart(String[] args) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 54
+   在 System.ServiceProcess.ServiceBase.ServiceQueuedMainCallback(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+时间间隔60000
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:33:29---------2019/5/29 2:33:29----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.<>c__DisplayClass2_1.<OnStart>b__1(Object obj, ElapsedEventArgs e) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 64
+   在 System.Timers.Timer.MyTimerCallback(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.TimerQueueTimer.CallCallback()
+   在 System.Threading.TimerQueueTimer.Fire()
+   在 System.Threading.TimerQueue.FireNextTimers()
+执行一次定时器
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:33:29---------2019/5/29 2:33:29----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.engine.Services.PayService.LoadSource(Int32 maxLevel) 位置 D:\xykj\net.xykj.cf.service.engine\Services\PayService.cs:行号 127
+   在 net.xykj.cf.service.engine.Services.PayService.Push(Int32 maxLevel) 位置 D:\xykj\net.xykj.cf.service.engine\Services\PayService.cs:行号 49
+   在 net.xykj.cf.service.engine.Services.PayService.Action() 位置 D:\xykj\net.xykj.cf.service.engine\Services\PayService.cs:行号 23
+   在 net.xykj.cf.service.Services.XinYouService.<>c__DisplayClass2_1.<OnStart>b__1(Object obj, ElapsedEventArgs e) 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 67
+   在 System.Timers.Timer.MyTimerCallback(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.TimerQueueTimer.CallCallback()
+   在 System.Threading.TimerQueueTimer.Fire()
+   在 System.Threading.TimerQueue.FireNextTimers()
+XYPayService加载数据源
+----------------------------------------------------------↑↑↑
+---------2019/5/29 10:33:51---------2019/5/29 2:33:51----↓↓↓
+   在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   在 System.Environment.get_StackTrace()
+   在 net.xykj.common.log4net.ILog.Log(String type, String msg, Object[] parm)
+   在 net.xykj.common.XY.Debug(String msg, Object[] parm)
+   在 net.xykj.cf.service.Services.XinYouService.OnStop() 位置 D:\xykj\net.xykj.cf.service\Services\XinYouService.cs:行号 94
+   在 System.ServiceProcess.ServiceBase.DeferredStop()
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+服务停止
+----------------------------------------------------------↑↑↑

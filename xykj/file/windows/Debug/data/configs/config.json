@@ -1,18 +1,12 @@
 ﻿{
-  "AgentOPService": false,
+  "AgentService":true,
+  "AgentService_time":60000,
+  "AgentOPService": true,
   "AgentOPService_timer": 60000,
   "AgentOPService_MaxLevel": 5,
   "AgentOPService_Level_1": 10000,
   "AgentOPService_Level_2": 20000,
   "AgentOPService_Level_3": 30000,
   "AgentOPService_Level_4": 40000,
-  "AgentOPService_Level_5": 50000,
-  "XYPayService": true,
-  "xinyou_limit": 20,
-  "xinyou_max_level": 6,
-  "xinyou_level_1": 10000,
-  "xinyou_level_2": 300000,
-  "xinyou_level_3": 30000,
-  "xinyou_level_4": 40000,
-  "xinyou_level_5": 50000
+  "AgentOPService_Level_5": 50000
 }
